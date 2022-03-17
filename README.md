@@ -1,2 +1,4 @@
-# fernando_acuna
-Paguina web
+# Paguina web
+- html
+- css
+- java script
